@@ -1,4 +1,4 @@
-# Titanic Dataset - Exploratory Data Analysis
+# Exploratory Data Analysis on the Titanic Dataset
 
 This repository contains an exploratory data analysis (EDA) of the Titanic dataset using Jupyter Notebook.
 
@@ -56,4 +56,3 @@ This Exploratory Data Analysis (EDA) of the Titanic dataset provided key insight
 Through this EDA, we identified outliers, missing data, and the overall distribution of key features. These insights are useful for building predictive models or understanding factors that influenced survival on the Titanic.
 
 This project successfully meets the objectives of summarizing, visualizing, and interpreting the Titanic dataset using Python and Jupyter Notebook.
-
