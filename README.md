@@ -1,5 +1,5 @@
 # Exploratory Data Analysis on the Titanic Dataset
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaswanth-G2004/exploratory-data-analysis/blob/main/main.ipynb)
 This repository contains an exploratory data analysis (EDA) of the Titanic dataset using Jupyter Notebook.
 
 ## 📁 Files Included
