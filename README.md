@@ -56,3 +56,13 @@ This Exploratory Data Analysis (EDA) of the Titanic dataset provided key insight
 Through this EDA, we identified outliers, missing data, and the overall distribution of key features. These insights are useful for building predictive models or understanding factors that influenced survival on the Titanic.
 
 This project successfully meets the objectives of summarizing, visualizing, and interpreting the Titanic dataset using Python and Jupyter Notebook.
+
+---
+## 👨‍💻 Author
+
+**Garikipati Yaswanth**  
+📧 Email: garikipatiyaswanth2004@gmail.com  
+🔗 [GitHub](https://github.com/Yaswanth-G2004)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yaswanth-garikipati-516821288)
+
+---
